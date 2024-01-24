@@ -15,7 +15,7 @@ https://stackoverflow.com/ - This was a good one for me.
 ## Links to Application
 https://github.com/iamdanjoyce/module-six-quiz
 
-https://iamdanjoyce.github.io/week-six-quiz
+https://iamdanjoyce.github.io/module-six-quiz/
 
 ## Screenshots of Application Live
  ![Screenshot](./assets/Screenshots/Screenshot%20.jpg)
